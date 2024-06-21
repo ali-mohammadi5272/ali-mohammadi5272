@@ -1,3 +1,5 @@
 ## Hi there 👋
 ### Here is Ali :))
-- 🌱 I’m currently learning Redux
+
+- 🌱 I’m Front-end Developer.
+- 🌱 I’m currently learning Redux.
