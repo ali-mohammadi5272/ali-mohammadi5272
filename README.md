@@ -11,21 +11,8 @@ const aliMohammadiUser: UserType = {
   age: 24,
   language: ["Farsi", "English", "Deutsch"],
   programmingKnowledge: [
-    "HTML",
-    "CSS",
-    "SCSS",
-    "Javascript",
-    "Typescript",
-    "ReactJS",
-    "NextJS",
-    "Tailwindcss",
-    "Bootstrap",
-    "MUI",
-    "AntDesign",
-    "Git",
-    "MongoDB",
-    "Postman",
-  ],
+    "HTML","CSS","SCSS","Javascript","Typescript","ReactJS","NextJS","PWA","Tailwindcss","Bootstrap","MUI","AntDesign","Git","MongoDB","Postman",
+ ],
 
   coding: function () {
     console.log("Ali is coding...");
