@@ -40,6 +40,8 @@ const aliMohammadiUser: UserType = {
 };
 ```
 
+---
+
 ### 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,3 +58,11 @@ const aliMohammadiUser: UserType = {
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ali-mohammadi5272&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ali-mohammadi5272&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammadi5272&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
