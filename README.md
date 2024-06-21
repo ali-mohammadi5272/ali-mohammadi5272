@@ -1,11 +1,43 @@
 ## Hi there 👋
+
 ### Here is Ali :))
 
 - 😍 I’m Front-end Developer.
 - 🌱 I’m currently learning Redux.
 
+```typescript
+const aliMohammadiUser: UserType = {
+  fullname: "Ali Mohammadi",
+  age: 24,
+  language: ["Farsi", "English", "Deutsch"],
+  programmingKnowledge: [
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Javascript",
+    "Typescript",
+    "ReactJS",
+    "NextJS",
+    "Tailwindcss",
+    "Bootstrap",
+    "MUI",
+    "AntDesign",
+    "Git",
+    "MongoDB",
+    "Postman",
+  ],
+
+  coding: function () {
+    console.log("Ali is coding...");
+  },
+  learning: function () {
+    console.log("Ali is learning...");
+  },
+};
+```
 
 ### 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
