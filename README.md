@@ -2,8 +2,9 @@
 
 ### Here is Ali :))
 
-- 😍 I’m Front-end Developer.
-- 🌱 I’m currently learning Redux.
+- 😍 I’m Front-end Developer
+- 🌍 I'm based in Iran
+- 🌱 I’m currently learning Redux
 
 ```typescript
 const aliMohammadiUser: UserType = {
