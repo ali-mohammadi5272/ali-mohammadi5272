@@ -9,8 +9,6 @@
 const aliMohammadiUser: UserType = {
   fullname: "Ali Mohammadi",
   age: 24,
-  country: "Iran",
-  city: "Mashhad",
   email: "ali.mohammadi5272@gmail.com",
   number: "+989152505373",
   language: ["Farsi", "English", "Deutsch"],
