@@ -9,6 +9,8 @@
 const aliMohammadiUser: UserType = {
   fullname: "Ali Mohammadi",
   age: 24,
+  country: "Iran",
+  city: "Mashhad",
   language: ["Farsi", "English", "Deutsch"],
   programmingKnowledge: [
     "HTML",
