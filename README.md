@@ -21,7 +21,7 @@ const aliMohammadiUser: UserType = {
     "PWA",
     "Tailwindcss",
     "Bootstrap",
-    "MUI",
+    "Material UI",
     "Ant-Design",
     "Git",
     "MongoDB",
