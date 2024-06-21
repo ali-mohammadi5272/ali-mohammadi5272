@@ -11,6 +11,7 @@ const aliMohammadiUser: UserType = {
   age: 24,
   country: "Iran",
   city: "Mashhad",
+  email: "ali.mohammadi5272@gmail.com",
   language: ["Farsi", "English", "Deutsch"],
   programmingKnowledge: [
     "HTML",
