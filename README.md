@@ -12,6 +12,7 @@ const aliMohammadiUser: UserType = {
   country: "Iran",
   city: "Mashhad",
   email: "ali.mohammadi5272@gmail.com",
+  number: "+989152505373",
   language: ["Farsi", "English", "Deutsch"],
   programmingKnowledge: [
     "HTML",
