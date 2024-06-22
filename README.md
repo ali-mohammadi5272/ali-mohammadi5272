@@ -8,7 +8,7 @@
 
 ```typescript
 const aliMohammadiUser: UserType = {
-  fullname: "Ali Mohammadi",
+  fullName: "Ali Mohammadi",
   age: 24,
   email: "ali.mohammadi5272@gmail.com",
   number: "+989152505373",
