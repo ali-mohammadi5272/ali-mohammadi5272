@@ -2,7 +2,7 @@
 
 ### Here is Ali :))
 
-- 😍 I’m Front-end Developer
+- 😍 I’m Front-End Developer
 - 🌍 I'm based in Iran
 - 🌱 I’m currently learning Redux
 
