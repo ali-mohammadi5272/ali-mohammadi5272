@@ -44,7 +44,8 @@ const aliMohammadiUser: UserType = {
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammadi-a806602a1)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/ali_m5272)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989152505373)
+[![Telegram](https://img.shields.io/badge/Telegram-184199.svg?logo=telegram&logoColor=white)](https://t.me/ali_m5272)
 
 
 ---
