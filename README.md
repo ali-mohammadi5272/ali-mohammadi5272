@@ -43,10 +43,10 @@ const aliMohammadiUser: UserType = {
 ---
 
 ### 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammadi-a806602a1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989152505373)
 [![Telegram](https://img.shields.io/badge/Telegram-184199.svg?logo=telegram&logoColor=white)](https://t.me/ali_m5272)
-
 
 ---
 
@@ -67,12 +67,16 @@ const aliMohammadiUser: UserType = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ali-mohammadi5272&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ali-mohammadi5272&theme=dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammadi5272&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
