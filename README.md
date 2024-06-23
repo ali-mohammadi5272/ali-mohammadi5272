@@ -44,16 +44,9 @@ const aliMohammadiUser: UserType = {
 
 ### 🌐 Socials:
 
-<!-- Social v21 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammadi-a806602a1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989152505373)
 [![Telegram](https://img.shields.io/badge/Telegram-184199.svg?logo=telegram&logoColor=white)](https://t.me/ali_m5272)
-
-
-<!-- Social v2 -->
-<!-- [![LinkedIn](https://img.shields.io/badge/Linkedin-Ali_Mohammadi-white?logo=linkedin)](https://linkedin.com/in/ali-mohammadi-a806602a1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Ali_Mohammadi-18b43d?logo=whatsapp)](https://wa.me/989152505373)
-[![Telegram](https://img.shields.io/badge/Telegram-@ali__m5272-blue?logo=telegram)](https://t.me/ali_m5272) -->
 
 ---
 
