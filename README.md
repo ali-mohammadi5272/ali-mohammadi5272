@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<div style="display: flex; justify-content: space-between;">
-  <h3>⭐ Here is Ali :))</h3>
-  <h3>Future Software Engineer ⭐</h3>
-</div>
+### ⭐ Here is Ali :))
+
+#### 💪 Future Software Engineer
 
 - 😍 I’m Front-End Developer
 - 🌍 I'm based in Iran
