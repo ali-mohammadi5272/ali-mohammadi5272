@@ -5,7 +5,8 @@
 - 😍 I’m Front-End Developer
 - 🌍 I'm based in Iran
 - 🌱 I’m currently learning Redux
-
+- 💪 I’m future Software Engineer
+  
 ```typescript
 const aliMohammadiUser: UserType = {
   fullName: "Ali Mohammadi",
