@@ -4,7 +4,7 @@
 
 #### 💪 Future Software Engineer
 
-- 😍 I’m Front-End Developer
+- 😍 I’m Fullstack Developer
 - 🌍 I'm based in Iran
 - 🚀 I’m super fast Learner
 - 🌱 I’m currently learning NodeJS
