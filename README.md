@@ -15,7 +15,7 @@ const aliMohammadiUser: UserType = {
   age: 24,
   email: "ali.mohammadi5272@gmail.com",
   number: "+989152505373",
-  language: ["Farsi", "English", "Deutsch"],
+  languages: ["Farsi", "English", "Deutsch"],
   programmingKnowledge: [
     "HTML",
     "CSS",
@@ -28,7 +28,7 @@ const aliMohammadiUser: UserType = {
     "ExpressJS",
     "ReduxJS",
     "PWA",
-    "Tailwindcss",
+    "TailwindCss",
     "Bootstrap",
     "Material UI",
     "Ant-Design",
