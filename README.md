@@ -4,7 +4,7 @@
 
 #### 💪 Future Software Engineer
 
-- 😍 I’m Fullstack Developer
+- 😍 I’m Full-Stack Developer
 - 🌍 I'm based in Iran
 - 🚀 I’m super fast Learner
 - 🌱 I’m currently learning NodeJS
@@ -32,6 +32,7 @@ const aliMohammadiUser: UserType = {
     "Bootstrap",
     "Material UI",
     "Ant-Design",
+    "MySQL",
     "MongoDB",
     "Git",
     "RegEx",
