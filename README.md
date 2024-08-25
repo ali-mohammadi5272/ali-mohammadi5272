@@ -7,7 +7,7 @@
 - 😍 I’m Full-Stack Developer
 - 🌍 I'm based in Iran
 - 🚀 I’m super fast Learner
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning <strong>Clean Code</strong>
 
 ```typescript
 const aliMohammadiUser: UserType = {
@@ -37,6 +37,7 @@ const aliMohammadiUser: UserType = {
     "Git",
     "RegEx",
     "Postman",
+    "Clean Code",
   ],
 
   coding: function () {
@@ -82,6 +83,7 @@ const aliMohammadiUser: UserType = {
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
