@@ -7,7 +7,7 @@
 - 😍 I’m Full-Stack Developer
 - 🌍 I'm based in Iran
 - 🚀 I’m super fast Learner
-- 🌱 I’m currently learning <strong>Socket</strong>
+- 🌱 I’m currently learning <strong>GraphQL</strong>
 
 ```typescript
 const aliMohammadiUser: UserType = {
@@ -29,6 +29,7 @@ const aliMohammadiUser: UserType = {
     "ReduxJS",
     "PWA",
     "Socket",
+    "GraphQL",
     "TailwindCss",
     "Bootstrap",
     "Material UI",
@@ -80,6 +81,7 @@ const aliMohammadiUser: UserType = {
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket-white?style=for-the-badge&logo=socket.io&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
