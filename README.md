@@ -1,4 +1,6 @@
-## Hi there 👋
+<div style="width: 400px; height: 200px; margin: auto; border-radius: 10px 40px; overflow: hidden">
+  <img style="width: 100%" src="https://i.giphy.com/USV0ym3bVWQJJmNu3N.webp" />
+</div>
 
 ### ⭐ Here is Ali :))
 
