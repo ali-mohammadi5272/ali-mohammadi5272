@@ -11,12 +11,13 @@
 
 ```typescript
 const aliMohammadiUser: UserType = {
-  fullName: "Ali Mohammadi",
+  firstName: "Ali",
+  lastName: "Mohammadi",
   age: 25,
   email: "ali.mohammadi5272@gmail.com",
   number: "+989152505373",
   languages: ["فارسی", "English", "Deutsch"],
-  programmingKnowledge:{
+  programmingKnowledge: {
     client: [
       "HTML",
       "CSS",
@@ -49,14 +50,14 @@ const aliMohammadiUser: UserType = {
       "RegEx",
       "Postman",
       "Clean Code",
-    ]
-  }
-
-  coding(){
-    console.log(`${this.fullName} is coding...`);
+    ],
   },
-  learning(){
-    console.log(`${this.fullName} is learning...`);
+
+  coding() {
+    console.log(`${this.firstName} is coding...`);
+  },
+  learning() {
+    console.log(`${this.firstName} is learning...`);
   },
 };
 ```
