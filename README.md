@@ -16,41 +16,47 @@ const aliMohammadiUser: UserType = {
   email: "ali.mohammadi5272@gmail.com",
   number: "+989152505373",
   languages: ["فارسی", "English", "Deutsch"],
-  programmingKnowledge: [
-    "HTML",
-    "CSS",
-    "SCSS",
-    "Javascript",
-    "Typescript",
-    "ReactJS",
-    "VueJS",
-    "NextJS",
-    "NodeJS",
-    "ExpressJS",
-    "NestJS",
-    "ReduxJS",
-    "PWA",
-    "Socket",
-    "GraphQL",
-    "TailwindCss",
-    "Bootstrap",
-    "Material UI",
-    "Ant-Design",
-    "MySQL",
-    "PostgreSQL",
-    "MongoDB",
-    "Redis",
-    "Git",
-    "RegEx",
-    "Postman",
-    "Clean Code",
-  ],
+  programmingKnowledge:{
+    client: [
+      "HTML",
+      "CSS",
+      "SCSS",
+      "ReactJS",
+      "VueJS",
+      "NextJS",
+      "ReduxJS",
+      "PWA",
+      "TailwindCss",
+      "Bootstrap",
+      "Material UI",
+      "Ant-Design",
+    ],
+    server: [
+      "NodeJS",
+      "ExpressJS",
+      "NestJS",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+    ],
+    common: [
+      "Javascript",
+      "Typescript",
+      "Socket",
+      "GraphQL",
+      "Git",
+      "RegEx",
+      "Postman",
+      "Clean Code",
+    ]
+  }
 
-  coding: function () {
-    console.log("Ali is coding...");
+  coding(){
+    console.log(`${this.fullName} is coding...`);
   },
-  learning: function () {
-    console.log("Ali is learning...");
+  learning(){
+    console.log(`${this.fullName} is learning...`);
   },
 };
 ```
