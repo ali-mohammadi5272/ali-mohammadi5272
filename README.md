@@ -26,6 +26,7 @@ const aliMohammadiUser: UserType = {
       "VueJS",
       "NextJS",
       "ReduxJS",
+      "VueX",
       "PWA",
       "TailwindCss",
       "Bootstrap",
