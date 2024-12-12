@@ -1,5 +1,3 @@
-
-
 ### ⭐ Here is Ali :))
 
 #### 💪 Future Software Engineer
@@ -25,6 +23,7 @@ const aliMohammadiUser: UserType = {
       "ReactJS",
       "VueJS",
       "NextJS",
+      "NuxtJS",
       "ReduxJS",
       "VueX",
       "PWA",
@@ -91,6 +90,7 @@ const aliMohammadiUser: UserType = {
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%white)
 ![NestJS](https://img.shields.io/badge/nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
