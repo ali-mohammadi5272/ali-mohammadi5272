@@ -26,6 +26,7 @@ const aliMohammadiUser: UserType = {
       "Nuxt.js",
       "Redux.js",
       "VueX",
+      "Pinia",
       "PWA",
       "TailwindCss",
       "Vuetify",
