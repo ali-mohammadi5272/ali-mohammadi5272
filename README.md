@@ -15,45 +15,6 @@ const aliMohammadiUser: UserType = {
   email: "ali.mohammadi5272@gmail.com",
   phone: "+989152505373",
   languages: ["فارسی", "English", "Deutsch"],
-  programmingKnowledge: {
-    client: [
-      "HTML",
-      "CSS",
-      "SCSS",
-      "React.js",
-      "Vue.js",
-      "Next.js",
-      "Nuxt.js",
-      "Redux.js",
-      "VueX",
-      "Pinia",
-      "PWA",
-      "TailwindCss",
-      "Vuetify",
-      "Bootstrap",
-      "Material UI",
-      "Ant-Design",
-    ],
-    server: [
-      "Node.js",
-      "Express.js",
-      "Nest.js",
-      "MySQL",
-      "PostgreSQL",
-      "MongoDB",
-      "Redis",
-    ],
-    common: [
-      "Javascript",
-      "Typescript",
-      "Socket",
-      "GraphQL",
-      "Git",
-      "RegEx",
-      "Postman",
-      "Clean Code",
-    ],
-  },
 
   coding() {
     console.log(`${this.firstName} is coding...`);
@@ -64,7 +25,7 @@ const aliMohammadiUser: UserType = {
 };
 ```
 
----
+<br />
 
 ### 🌐 Socials:
 
@@ -79,7 +40,7 @@ const aliMohammadiUser: UserType = {
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Ali_Mohammadi-18b43d?logo=whatsapp)](https://wa.me/989152505373)
 [![Telegram](https://img.shields.io/badge/Telegram-@ali__m5272-blue?logo=telegram)](https://t.me/ali_m5272) -->
 
----
+<br />
 
 ### 💻 Tech Stack:
 
@@ -110,7 +71,7 @@ const aliMohammadiUser: UserType = {
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<br />
 
 ### 📊 GitHub Stats:
 
