@@ -2,10 +2,10 @@
 
 #### 💪 Future Software Engineer
 
-- 😍 I’m Full-Stack Developer
+- 😍 I’m Web and Android Developer
 - 🌍 I'm based in Iran
 - 🚀 I’m super fast Learner
-- 🌱 I’m currently learning <strong>NestJS</strong>
+- 🌱 I’m currently learning <strong>Android</strong>
 
 ```typescript
 const aliMohammadiUser: UserType = {
