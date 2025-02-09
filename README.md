@@ -51,6 +51,8 @@ const aliMohammadiUser: UserType = {
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs&logoColor=e0234e)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=563D7C)
+  ![Pinia](https://img.shields.io/badge/-Pinia-333333?style=flat&logo=pinia&logoColor=ffd859)
+  ![Vuex](https://img.shields.io/badge/-VueX-333333?style=flat&logo=vuex&logoColor=ffd859)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
@@ -59,7 +61,7 @@ const aliMohammadiUser: UserType = {
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=0081cb)
   ![Ant-Design](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=antdesign&logoColor=0170fe)
   ![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=050A14)
-
+  ![Prime Vue](https://img.shields.io/badge/-Prime%20Vue-333333?style=flat&logo=PrimeVue&logoColor=41B883)
 - 📳 &nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
   ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=xml&logoColor=005FAD)
