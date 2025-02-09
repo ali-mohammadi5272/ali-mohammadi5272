@@ -1,4 +1,4 @@
-### ⭐ Here is Ali :))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F78322&background=2351FF00&vCenter=true&width=435&lines=Welcome+%E2%98%83%EF%B8%8F%E2%9D%A4%EF%B8%8F;Here+is+Ali++%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 #### 💪 Future Software Engineer
 
