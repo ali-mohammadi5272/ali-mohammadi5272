@@ -2,7 +2,7 @@
 
 #### 💪 Future Software Engineer
 
-- 😍 I’m Web and Android Developer
+- 😍 I’m Web Developer
 - 🌍 I'm based in Iran
 - 🚀 I’m super fast Learner
 - 🌱 I’m currently learning <strong>Android</strong>
