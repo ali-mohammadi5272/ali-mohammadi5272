@@ -49,6 +49,7 @@ const aliMohammadiUser: UserType = {
   ![Nuxtjs](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify&logoColor=white)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs&logoColor=e0234e)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=563D7C)
   ![Pinia](https://img.shields.io/badge/-Pinia-333333?style=flat&logo=pinia&logoColor=ffd859)
