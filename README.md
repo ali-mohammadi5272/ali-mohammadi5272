@@ -56,7 +56,7 @@ const aliMohammadiUser: UserType = {
   ![Vuex](https://img.shields.io/badge/-VueX-333333?style=flat&logo=vuex&logoColor=ffd859)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
-  ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss)
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=AEDDFF)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=0081cb)
