@@ -2,10 +2,11 @@
 
 #### 💪 Future Software Engineer
 
-- 😍 I’m Web Developer
-- 🌍 I'm based in Iran
+- 😍 I’m Fullstack Web Developer
+- 👨‍🎓 I'm Software Engineering Student
 - 🚀 I’m super fast Learner
 - 🌱 I’m currently learning <strong>Android</strong>
+- 🌍 I'm based in Iran
 
 ```typescript
 const aliMohammadiUser: UserType = {
