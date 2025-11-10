@@ -5,14 +5,14 @@
 - 😍 I’m Fullstack Web Developer
 - 👨‍🎓 I'm Software Engineering Student
 - 🚀 I’m super fast Learner
-- 🌱 I’m currently learning <strong>Android</strong>
+- 🌱 I’m currently learning <strong>C#</strong>
 - 🌍 I'm based in Iran
 
 ```typescript
-const aliMohammadiUser: UserType = {
-  firstName: "Ali",
+const aliMohammadi: User = {
+  firstbame: "Ali",
   lastName: "Mohammadi",
-  age: 25,
+  age: 26,
   email: "ali.mohammadi5272@gmail.com",
   phone: "+989152505373",
   languages: ["فارسی", "English", "Deutsch"],
