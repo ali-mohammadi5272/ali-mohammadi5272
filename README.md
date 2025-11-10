@@ -28,7 +28,7 @@ const aliMohammadiUser: UserType = {
 
 <br />
 
-### 📞 Conntact Me
+### 📞 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Ali_Mohammadi-white?logo=linkedin)](https://linkedin.com/in/ali-mohammadi-a806602a1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Ali_Mohammadi-18b43d?logo=whatsapp)](https://wa.me/989152505373)
